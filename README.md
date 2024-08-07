@@ -4,8 +4,18 @@
 
 ![Gif do Gandalf](https://media1.tenor.com/m/-D7Sjj4LXbAAAAAC/iam-looking-for-someone-to-share-in-an-adventure-gandalf.gif)
 
-## Sobre Mim
+## 📍Sobre Mim
+😄 Olá, sou o Patrick Matthew! 
 
+💬 Sou formado em **Marketing** e possuo uma pós-graduação em **Transformação Digital** pela PUC Minas, onde desenvolvi minha paixão por tecnologia e inovação.
+
+🌱 Embora ainda esteja construindo minha experiência prática na área de TI, tenho dedicado tempo ao estudo de **Python**, **Power BI**, **Banco de Dados** e **Inteligência Artificial**, o que tem me permitido aprimorar minhas habilidades e expandir meu conhecimento.
+
+🚀 Estou animado para compartilhar meus projetos e o meu progresso com vocês.
+
+----
+
+![Patrick GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickmatts&show_icons=true&theme=dracula)
 
 
 
