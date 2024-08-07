@@ -1,13 +1,9 @@
-### Hi there 👋
 
-<!-- Cabeçalhos -->
+<center><h2>Sejam Bem-vindos ao meu GitHub!</h2></center>
 
-# Titulo 1
-## Titulo 2
-### Titulo 3
-#### Titulo 4
-##### Titulo 5
-###### Titulo 6
+
+![Gif do Gandalf](https://media1.tenor.com/m/-D7Sjj4LXbAAAAAC/iam-looking-for-someone-to-share-in-an-adventure-gandalf.gif)
+
 
 
 <!--
