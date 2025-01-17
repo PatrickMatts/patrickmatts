@@ -1,17 +1,12 @@
 
-<center><h2>Sejam Bem-vindos ao meu GitHub!</h2></center>
+## About me 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello, I'm Patrick Matthew! 
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="25" height="25" />  I have a degree in Marketing and a postgraduate degree in Digital Transformation from PUC Minas. It was there that I discovered my passion for technology and innovation, fields in which I am increasingly immersed.
 
-![Gif do Gandalf](https://media1.tenor.com/m/-D7Sjj4LXbAAAAAC/iam-looking-for-someone-to-share-in-an-adventure-gandalf.gif)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" />  I am actively building practical experience in IT by studying Python, Power BI, Databases, and Artificial Intelligence. These skills have significantly expanded my knowledge and prepared me to tackle real-world challenges.
 
-## 📍Sobre Mim
-😄 Olá, sou o Patrick Matthew! 
-
-💬 Sou formado em **Marketing** e possuo uma pós-graduação em **Transformação Digital** pela PUC Minas, onde desenvolvi minha paixão por tecnologia e inovação.
-
-🌱 Embora ainda esteja construindo minha experiência prática na área de TI, tenho dedicado tempo ao estudo de **Python**, **Power BI**, **Banco de Dados** e **Inteligência Artificial**, o que tem me permitido aprimorar minhas habilidades e expandir meu conhecimento.
-
-🚀 Estou animado para compartilhar meus projetos e o meu progresso com vocês.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Smiling%20Eyes.png" alt="Smiling Face with Smiling Eyes" width="25" height="25" /> I am excited to share my projects and progress, always striving for continuous learning and innovation. Let's connect and create impactful solutions together!.
 
 ----
 
